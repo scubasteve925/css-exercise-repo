@@ -1,0 +1,23 @@
+/* style.css */
+p {
+    background-color:  #ff6666;
+    font-family: Verdana,"Dejavu sans", sans-serif;
+
+
+}
+
+.two {
+color: blue;
+font-size: 36px;
+
+}
+
+.cooler {
+    font-size: 32px;
+}
+
+.fiver {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
