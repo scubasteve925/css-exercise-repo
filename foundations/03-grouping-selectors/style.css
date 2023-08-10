@@ -1,0 +1,15 @@
+
+.yclick, 
+.nclick {
+    font-size: 28px;
+
+}
+
+.yclick {
+background-color: black;
+color: white;
+}
+
+.nclick {
+    background-color: yellow
+}
